@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
+
+# Data & results
+dataset/
+results/*.csv
+results/*.pkl
+
+# OS
+.DS_Store
