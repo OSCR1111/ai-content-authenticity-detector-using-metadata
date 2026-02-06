@@ -2,13 +2,12 @@
 __pycache__/
 *.pyc
 
-# Virtual env
-venv/
-
-# Data & results
+# Data and results
 dataset/
 results/*.csv
 results/*.pkl
+web_app/uploads/
 
-# OS
-.DS_Store
+# Environment
+venv/
+.env
